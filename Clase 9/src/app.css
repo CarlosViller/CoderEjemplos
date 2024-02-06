@@ -1,0 +1,8 @@
+/* a:hover,
+a.active {
+  color: #c41230;
+} */
+
+a.active {
+  color: #c41230;
+}
